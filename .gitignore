@@ -1,4 +1,9 @@
 # Byte-compiled / optimized / DLL files
+API_Practice.ipynb
+Random_Numbers.ipynb
+VacationPy.ipynb
+config.py
+WeatherPy.ipynb
 __pycache__/
 *.py[cod]
 *$py.class
